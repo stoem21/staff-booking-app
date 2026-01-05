@@ -2,6 +2,9 @@
   "name": "staff-booking-app",
   "private": true,
   "version": "1.0.0",
+  "engines": {
+    "node": "v24.11.1"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
